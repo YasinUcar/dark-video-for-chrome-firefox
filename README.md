@@ -1,4 +1,4 @@
-# Video Dark Mode (Chrome Extension)
+# Video Dark Mode (Chrome and Firefox Extension)
 
 On pages that play videos (YouTube, Udemy, etc.), if the video's own content has a bright/white background (for example, a white-themed code editor or a white slide), it automatically makes the video dark. It does not affect the rest of the page; it only applies a CSS filter to the `<video>` element.
 
